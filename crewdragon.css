@@ -1,0 +1,185 @@
+.card-header {
+    height: 120px;
+    background-color: #1b1252;
+    color: white;
+    font-size: small;
+    line-height: 0;
+    border: 1px solid white;    
+    
+}
+
+.btn {
+    background-color: #23186b;
+    border: 1px solid white;
+    color: white;
+    padding: 24px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+
+  body {
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+
+  }
+
+p {
+    
+    margin-top: 0;
+    line-height: 0%;
+    margin: 0;
+}
+ 
+.header-hodnoty {
+
+    margin-left: 6%;
+    line-height: 0%;
+    margin-top: 0;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.aside {
+    
+    background-color: #1b1252;
+    color: white;
+    width: 125px;
+    position: absolute;
+    height: 78%;
+    display: inline-block;
+    border: 1px solid white;
+
+}
+
+.karty {
+
+    background-color: #1b1252;
+    color: white;
+    width: 560px;
+    position: absolute;
+    height: 78%;
+    display: inline-block;
+    border: 1px solid white;
+    margin-left: 125px;
+}
+
+
+.karta {
+
+    background-color: #1b1252;
+    color: white;
+    width: 850px;
+    position: absolute;
+    height: 78%;
+    display: inline-block;
+    border: 1px solid white;
+    margin-left: 685px;
+}
+
+.footer {
+    background-color: #23186b;
+    color: white;
+    width: 100%;
+    position: absolute;
+    height: 9%;
+    border: 1px solid white;
+    margin-top: 35%;
+}
+
+.spacexearth {
+    width: 800px;
+    height: 450px;
+    margin: auto;
+    display: block;
+}
+
+
+.aside-text {
+    margin-top: 20%;
+    line-height: normal;
+    text-align: center;
+    font-size: small;
+}
+
+.aside-text2 {
+    line-height: normal;
+    text-align: center;
+    font-size: small;
+}
+
+.target-text {
+    line-height: normal;
+    text-align: center;
+    font-size: small;
+}
+
+.target-numbers {
+    line-height: normal;
+    text-align: center;
+    font-size: large;
+}
+
+
+
+.karticka1 {
+    width: 500px;
+    background-color: #23186b;
+    display: block;
+    margin: auto;
+    height: 24%;
+    margin-top: 25px;
+}
+
+
+.karticka {
+width: 500px;
+background-color: #23186b;
+display: block;
+margin: auto;
+height: 24%;
+margin-top: 14px;
+}
+
+
+
+.coast {
+
+    margin-left: 6%;
+    line-height: 0%;
+    margin-top: 4%;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.kartickatext1 {
+    text-decoration: underline;
+    line-height: 30px;
+    
+}
+
+.kartickatext2 {
+    line-height: 25px;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+
+.fa fa-arrow-left {
+    background-color: white;
+}
+
+.btn2 {
+    background-color: #23186b;
+    border: 1px solid white;
+    color: white;
+    padding: 12px 18px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 2%;
+    border-radius: 10%;
+  }
+  
